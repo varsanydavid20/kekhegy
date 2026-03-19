@@ -1,0 +1,24 @@
+body {
+    line-height: 1.5;
+}
+
+#kekhegyszallo-kep {
+    max-width: 100%;
+    height: auto;
+}
+
+.nav-link {
+    border-color:#343A40;
+}
+.btn {
+    border-color: #343A40;
+}
+.chat {
+    padding: 10px;
+}
+
+.card {
+    padding: 10px;
+}
+
+    

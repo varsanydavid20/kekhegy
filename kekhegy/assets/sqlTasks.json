@@ -1,0 +1,32 @@
+[
+  {
+    "id": 14,
+    "description": "Adatbázis létrehozása",
+    "adminPage": false
+  },
+  {
+    "id": 16,
+    "description": "Mennyi szoba van a második emeleten?",
+    "adminPage": true
+  },
+  {
+    "id": 17,
+    "description": "Lugosi Béla foglalásai",
+    "adminPage": true
+  },
+  {
+    "id": 18,
+    "description": "Tetőtéri szoba beszúrása",
+    "adminPage": false
+  },
+  {
+    "id": 19,
+    "description": "Az öt legtöbbet foglalt szoba",
+    "adminPage": true
+  },
+  {
+    "id": 20,
+    "description": "Legnagyobb értékben foglaló vendég",
+    "adminPage": true
+  }
+]
